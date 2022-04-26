@@ -1,0 +1,5 @@
+#button-fixos{
+    position:fixed;
+    top:200px;/*altura da classe*/
+    right: 5px;
+  }
